@@ -3,4 +3,4 @@ The problem statement was to come up with a way to vent out toxic fumes that are
 
 
 #Requirements
-Adruino uno , temeperature sensor
+Adruino uno , temeperature sensor,PWM fan,Resistor(10k),Power supply,jumpers
